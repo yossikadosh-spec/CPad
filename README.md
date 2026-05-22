@@ -27,3 +27,6 @@ educational projects
 maker and IoT systems
 
 CPad combines retro simplicity with modern power, turning programming into a direct, playful, and creative experience again.
+
+CPad home page : https://c-pad.io/
+
