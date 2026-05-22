@@ -15,16 +15,16 @@ Behind the scenes, modern C++ libraries and technologies handle the complex plum
 
 With CPad, users can easily create:
 
-games
-multimedia applications
-MIDI instruments
-Arduino and ESP32 projects
-speech-controlled applications
-networking tools
-live visualizations
-AI-powered experiments
-educational projects
-maker and IoT systems
+* Games
+* Multimedia applications
+* MIDI instruments
+* Arduino and ESP32 projects
+* Speech-controlled applications
+* Networking tools
+* Live visualizations
+* AI-powered experiments
+* Educational projects
+* Maker and IoT systems
 
 CPad combines retro simplicity with modern power, turning programming into a direct, playful, and creative experience again.
 
