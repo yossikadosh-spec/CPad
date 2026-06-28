@@ -1,32 +1,67 @@
-# CPad
-CPad is a modern retro-style creative programming environment that brings back the joy and immediacy of classic home computers while providing powerful modern capabilities.
+CPad
 
-Designed around simplicity and experimentation, CPad allows users to write C programs and run them instantly without dealing with complex build systems, project configuration, library linking, or dependency management.
+CPad is a modern retro-inspired interactive C programming environment for Windows.
 
-CPad exposes elegant and minimalistic C APIs for graphics, audio, MIDI music, speech recognition, networking, Arduino/ESP32 communication, databases, AI integration, and more — allowing beginners, makers, hobbyists, students, engineers, and creative coders to build powerful interactive applications with very little code.
+Inspired by classic home computers like the ZX Spectrum and Commodore 64, CPad brings back the joy of writing a program, pressing Run, and immediately seeing the result—without compiler setup, project configuration, library linking, or dependency management.
 
-The philosophy behind CPad is inspired by the spirit of classic systems such as the ZX Spectrum and Commodore 64:
+Why CPad?
+
+Modern development environments are incredibly powerful, but they can also be overwhelming when you simply want to experiment with an idea.
+
+CPad was created to make programming feel immediate and enjoyable again.
 
 Write code.
+
 Press Run.
-Create something immediately.
 
-Behind the scenes, modern C++ libraries and technologies handle the complex plumbing, while users interact through a calm and approachable C interface.
+Create something.
 
-With CPad, users can easily create:
+Behind the scenes, modern C++ libraries handle the complex infrastructure while exposing a clean, elegant, and approachable C API.
 
-* Games
-* Multimedia applications
-* MIDI instruments
-* Arduino and ESP32 projects
-* Speech-controlled applications
-* Networking tools
-* Live visualizations
-* AI-powered experiments
-* Educational projects
-* Maker and IoT systems
+What can you build?
 
-CPad combines retro simplicity with modern power, turning programming into a direct, playful, and creative experience again.
+With only a small amount of C code you can create:
 
-CPad home page : https://c-pad.io/
+Interactive graphics
+Games
+Multimedia applications
+MIDI musical instruments
+Arduino and ESP32 projects
+Speech-controlled applications
+Networking tools
+Live visualizations
+Database applications
+AI-powered experiments
+Educational software
+Maker and IoT projects
+Features
 
+CPad provides simple C APIs for:
+
+Graphics
+Audio
+MIDI
+Networking
+SQLite databases
+Speech recognition
+Arduino / ESP32 communication
+AI integration
+And much more...
+Who is CPad for?
+
+CPad is designed for:
+
+Beginners learning C
+Students
+Teachers
+Makers
+Hobbyists
+Engineers
+Scientists
+Creative programmers
+
+Whether you're building a small game, controlling hardware, visualizing mathematics, or simply exploring an idea, CPad aims to make programming fast, approachable, and fun.
+
+Learn more
+
+🌐 Home page: https://c-pad.io/
