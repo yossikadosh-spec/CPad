@@ -65,3 +65,8 @@ Whether you're building a small game, controlling hardware, visualizing mathemat
 Learn more
 
 🌐 Home page: https://c-pad.io/
+
+<img width="800" height="437" alt="snapshot" src="https://github.com/user-attachments/assets/d75a5bc4-6cc0-40c0-8a5b-32532cdb75e2" />
+<img width="800" height="437" alt="CPad_snapshot" src="https://github.com/user-attachments/assets/0f1691d3-8631-4e84-9c24-1a1a2f8b9a8d" />
+
+
